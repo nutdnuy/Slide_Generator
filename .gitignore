@@ -5,6 +5,8 @@ assets/
 outputs/
 notes/
 sources/
+materials/
+scripts/
 
 # Temporary Office lock files
 ~$*
