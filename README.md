@@ -29,32 +29,6 @@ The primary focus is **slide and visual content generation**, plus a full suite 
 | `create-slide-decks` | Full presentation decks — pitch, lesson, workshop, executive |
 | `create-info-graphics` | Infographic and social carousel images |
 | `create-consulting-decks` | Consulting-style structured decks |
-| `create-daily-market-decks` | Daily market update slides |
-| `deck-refresh` | Refresh and redesign existing decks |
-| `pptx-author` | Low-level PPTX authoring with full formatting control |
-
-### Financial Analysis
-| Skill | Description |
-|---|---|
-| `dcf-model` | Discounted Cash Flow valuation |
-| `lbo-model` | Leveraged Buyout model |
-| `comps-analysis` | Comparable company analysis |
-| `3-statement-model` | P&L, Balance Sheet, Cash Flow model |
-| `earnings-analysis` | Earnings results breakdown |
-| `morning-note` | Daily market morning note |
-| `equity-research` | Full equity research report |
-| `pitch-deck` | Investment pitch deck |
-| `ic-memo` | Investment committee memo |
-| `macro-rates-monitor` | Macro and rates monitoring |
-
-### Research & Workflow
-| Skill | Description |
-|---|---|
-| `idea-generation` | Investment idea generation |
-| `thesis-tracker` | Track and update investment theses |
-| `deal-screening` | Screen investment opportunities |
-| `portfolio-monitoring` | Portfolio monitoring and reporting |
-| `skill-creator` | Create new skills for this workspace |
 
 ## Repository Structure
 
