@@ -1,0 +1,17 @@
+.DS_Store
+
+# Generated slide assets and exports
+assets/
+outputs/
+notes/
+sources/
+
+# Temporary Office lock files
+~$*
+
+# Local dependency/runtime artifacts
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Info Graphics"
+  short_description: "Create standalone infographic image sets."
+  default_prompt: "Use the local create-info-graphics skill to create a set of standalone infographic visuals from this brief."

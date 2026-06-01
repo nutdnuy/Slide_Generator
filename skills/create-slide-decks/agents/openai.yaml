@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Slide Decks"
+  short_description: "Build complete presentation decks."
+  default_prompt: "Use the local create-slide-decks skill to create a complete presentation deck from this brief."
