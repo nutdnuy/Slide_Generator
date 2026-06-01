@@ -1,4 +1,0 @@
-interface:
-  display_name: "Daily Market Decks"
-  short_description: "Build market decks with charts."
-  default_prompt: "Create a daily market presentation deck with Alpha Vantage data, relevant charts, and concise presenter notes."
