@@ -6,7 +6,7 @@ outputs/
 notes/
 sources/
 materials/
-scripts/
+/scripts/
 
 # Temporary Office lock files
 ~$*
@@ -16,4 +16,3 @@ node_modules/
 .venv/
 __pycache__/
 *.pyc
-

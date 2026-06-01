@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Consulting Decks"
+  short_description: "Consulting-grade strategy and executive decks"
+  default_prompt: "Use $create-consulting-decks to turn this business brief into a consulting-grade strategy deck."
