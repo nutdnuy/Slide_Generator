@@ -1,16 +1,16 @@
-# Slide Generator — Claude Code Skills Workspace
+# Slide Generator — Codex Skills Workspace
 
-A skills workspace for [Claude Code](https://claude.ai/code) focused on generating high-quality presentations, financial analysis, and visual content. Drop this folder into Claude Code and get 70+ specialized skills ready to use.
+A skills workspace for Codex focused on generating high-quality presentations, financial analysis, and visual content. Drop this folder into Codex and get 70+ specialized skills ready to use.
 
 ## What This Is
 
-This repository is a **Claude Code skills workspace** — a collection of agent instructions (skills) that Claude Code can invoke to complete complex tasks autonomously. Each skill in `skills/` defines a workflow for a specific type of output.
+This repository is a **Codex skills workspace** — a collection of agent instructions (skills) that Codex can invoke to complete complex tasks autonomously. Each skill in `skills/` defines a workflow for a specific type of output.
 
 The primary focus is **slide and visual content generation**, plus a full suite of **financial analysis skills**.
 
 ## Getting Started
 
-1. Clone this repo and open it in Claude Code
+1. Clone this repo and open it in Codex
 2. Claude will read `AGENTS.md` automatically and know which skills to use
 3. Give a task in plain language — Claude routes to the right skill:
 
@@ -65,7 +65,7 @@ materials/        # Sample materials and templates
 assets/           # Shared assets (logos, fonts, design tokens)
 outputs/          # Generated files (gitignored — stays local)
 notes/            # Working notes (gitignored — stays local)
-AGENTS.md         # Agent routing instructions for Claude Code
+AGENTS.md         # Agent routing instructions for Codex
 ```
 
 ## How Skills Work
@@ -75,7 +75,7 @@ Each skill lives in `skills/<skill-name>/SKILL.md` and contains:
 - **Workflow** — step-by-step instructions Claude follows
 - **Output spec** — where files are saved, naming conventions, format requirements
 
-Claude Code reads the relevant SKILL.md automatically when you give a matching task.
+Codex reads the relevant SKILL.md automatically when you give a matching task.
 
 ## Example Scripts
 
@@ -90,7 +90,7 @@ Use these as starting points or reference for building your own.
 
 ## Requirements
 
-- [Claude Code](https://claude.ai/code) — runs the skills
+- [Codex](https://claude.ai/code) — runs the skills
 - Node.js 18+ (for JS-based generation scripts)
 - Python 3.10+ (for Python-based scripts)
 
