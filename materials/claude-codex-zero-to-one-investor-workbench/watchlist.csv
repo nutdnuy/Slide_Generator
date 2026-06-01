@@ -1,0 +1,6 @@
+symbol,name,asset_class,theme,score,risk_level,thesis,next_action,notes
+VOO,Vanguard S&P 500 ETF,ETF,US broad market,78,Medium,Core exposure to large-cap US equities with low cost,Compare valuation and concentration risk,Sample only not investment advice
+TLT,iShares 20+ Year Treasury Bond ETF,ETF,Duration / rates,64,High,Potential hedge if yields fall but sensitive to rate surprises,Review inflation and Fed path,Sample only not investment advice
+NVDA,NVIDIA,Stock,AI infrastructure,72,High,Leader in AI accelerators but valuation and cycle risk matter,Check revenue concentration and margin durability,Sample only not investment advice
+GLD,SPDR Gold Shares,ETF,Gold / macro hedge,59,Medium,Portfolio hedge against real-rate and geopolitical shocks,Compare with cash and bonds,Sample only not investment advice
+BTC,Bitcoin,Crypto,Digital asset,55,Very High,Scarce digital asset narrative with high volatility and regulatory risk,Define position sizing and drawdown tolerance,Sample only not investment advice
